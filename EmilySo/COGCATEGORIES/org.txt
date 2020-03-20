@@ -1,0 +1,66 @@
+Afu   2234   Archaea  Archaeoglobus fulgidus
+Hbs  64091   Archaea  Halobacterium sp. NRC-1
+Mac 188937   Archaea  Methanosarcina acetivorans str.C2A
+Mth 145262   Archaea  Methanothermobacter thermautotrophicus
+Mja   2190   Archaea  Methanococcus jannaschii
+Mka 190192   Archaea  Methanopyrus kandleri AV19
+Tac   2303   Archaea  Thermoplasma acidophilum
+Tvo  50339   Archaea  Thermoplasma volcanium
+Pho  53953   Archaea  Pyrococcus horikoshii
+Pab  29292   Archaea  Pyrococcus abyssi
+Pya  13773   Archaea  Pyrobaculum aerophilum
+Sso   2287   Archaea  Sulfolobus solfataricus
+Ape  56636   Archaea  Aeropyrum pernix
+Sce   4932   Eukaryota     Saccharomyces cerevisiae
+Spo   4896   Eukaryota     Schizosaccharomyces pombe
+Ecu   6035   Eukaryota     Encephalitozoon_cuniculi
+Aae  63363   Bacteria     Aquifex aeolicus
+Tma   2336   Bacteria     Thermotoga maritima
+Syn   1148   Bacteria     Synechocystis
+Nos 103690   Bacteria     Nostoc sp. PCC 7120
+Fnu 190304   Bacteria     Fusobacterium nucleatum
+Dra   1299   Bacteria     Deinococcus radiodurans
+Cgl   1718   Actinobacteria Corynebacterium glutamicum
+Mtu  83332   Actinobacteria Mycobacterium tuberculosis H37Rv
+MtC  83331   Actinobacteria Mycobacterium tuberculosis CDC1551
+Mle   1769   Actinobacteria Mycobacterium leprae
+Cac   1488   Gramplus Clostridium acetobutylicum
+Lla   1360   Gramplus Lactococcus lactis
+Spy 160490   Gramplus Streptococcus pyogenes M1 GAS
+Spn 170187   Gramplus Streptococcus pneumoniae TIGR4
+Sau 158879   Gramplus Staphylococcus aureus N315
+Lin   1642   Gramplus Listeria innocua
+Bsu   1423   Gramplus Bacillus subtilis
+Bha  86665   Gramplus Bacillus halodurans
+Eco  83333   gamma    Escherichia coli K12
+EcZ 155864   gamma    Escherichia coli O157:H7 EDL933
+Ecs  83334   gamma    Escherichia coli O157:H7
+Ype    632   gamma    Yersinia pestis
+Sty  99287   gamma    Salmonella typhimurium LT2
+Buc 107806   gamma    Buchnera sp. APS
+Vch    666   gamma    Vibrio cholerae
+Pae    287   gamma    Pseudomonas aeruginosa
+Hin  71421   gamma    Haemophilus influenzae
+Pmu    747   gamma    Pasteurella multocida
+Xfa 160492   gamma    Xylella fastidiosa 9a5c
+Nme 122586   Proteobacteria     Neisseria meningitidis MC58
+NmA 122587   Proteobacteria     Neisseria meningitidis Z2491
+Rso    305   Proteobacteria     Ralstonia solanacearum
+Hpy  85962   Proteobacteria     Helicobacter pylori 26695
+jHp  85963   Proteobacteria     Helicobacter pylori J99
+Cje    197   Proteobacteria     Campylobacter jejuni
+Atu 181661   alpha    Agrobacterium tumefaciens strain C58 (Cereon)
+Sme    382   alpha    Sinorhizobium meliloti
+Bme  29459   alpha    Brucella melitensis
+Mlo    381   alpha    Mesorhizobium loti
+Ccr 155892   alpha    Caulobacter vibrioides
+Rpr    782   alpha    Rickettsia prowazekii
+Rco    781   alpha    Rickettsia conorii
+Ctr    813   Chlam-Spir    Chlamydia trachomatis
+Cpn 115713   Chlam-Spir    Chlamydophila pneumoniae CWL029
+Tpa    160   Chlam-Spir    Treponema pallidum
+Bbu    139   Chlam-Spir    Borrelia burgdorferi
+Uur   2130   Gramplus    Ureaplasma urealyticum
+Mpu   2107   Gramplus    Mycoplasma pulmonis
+Mpn   2104   Gramplus    Mycoplasma pneumoniae
+Mge   2097   Gramplus    Mycoplasma genitalium

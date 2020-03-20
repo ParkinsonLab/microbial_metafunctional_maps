@@ -1,0 +1,26 @@
+Tatusov RL, Koonin EV, Lipman DJ.  1997. A genomic perspective on protein 
+   families. Science 278: 631-637.
+
+==========================================================================
+Clusters of Orthologous Groups from 66 complete genomes
+==========================================================================
+
+whog       contains information on each COG, including the COG name,
+           functional classification (using a one-letter code), function 
+           description, and the the list of proteins (or domains) from all 
+           66 complete genomes included in the COG database.
+  
+myva       FASTA file containing all the proteins (or domains) from the 
+           66 complete genomes, including those not included into any COG.
+                     
+myva=gb    The list of protein names and corresponding GI numbers.
+                     
+fun.txt    explains one-letter functional classification used in the COG
+           database
+           
+org.txt    explains 3-letter abbreviations for the species represented
+           in the COG database.
+                  
+pa         the results of BLAST for all the proteins/domains in the format:
+           a - b (score p-value) astart..astop bstart..bstop,
+           where a and b are protein/domain names.
