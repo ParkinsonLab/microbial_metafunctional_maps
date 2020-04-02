@@ -1,0 +1,91 @@
+locus	name	refseq	ncbi_taxid	strain	genus	supergroup
+N/A	 Non-ribosomal peptide synthetase modules and related proteins-like protein	ABI68394.1	335541	Syntrophomonas wolfei subsp. wolfei str. Goettingen G311	Syntrophomonas	Clostridia	335541.Swol_1084	ENOG4105CEY	IQ	Amp-dependent synthetase and ligase
+N/A	 hypothetical protein FP2506_03039	EAU40668.1	314231	Fulvimarina pelagi HTCC2506	Fulvimarina	Proteobacteria	314231.FP2506_03039	ENOG4107WBH	M	OmpA family
+N/A	 conserved hypothetical protein	ABK17544.1	335543	Syntrophobacter fumaroxidans MPOB	Syntrophobacter	Deltaproteobacteria	335543.Sfum_1859	ENOG4106Q5Z	S	NA
+N/A	 cell wall surface anchor family protein	CAK19847.1	386043	Listeria welshimeri serovar 6b str. SLCC5334	Listeria	Bacilli	386043.lwe0429	ENOG4106GKD	M	domain protein
+N/A	 RelA/SpoT domain protein	ABL84115.1	196162	Nocardioides sp. JS614	Nocardioides	Actinobacteria	196162.Noca_4620	ENOG4105DRV	Q	RelA SpoT domain protein
+N/A	 Abortive phage infection	ABN52855.1	203119	Ruminiclostridium thermocellum ATCC 27405	Ruminiclostridium	Ruminococcaceae	203119.Cthe_1631	ENOG4107UF6	S	Abortive infection phage resistance protein
+N/A	 helix-turn-helix domain protein	ABN53662.1	203119	Ruminiclostridium thermocellum ATCC 27405	Ruminiclostridium	Ruminococcaceae	203119.Cthe_2460	ENOG4108IMY	K	Transcriptional regulator
+N/A	 putative 3-oxoacyl-ACP reductase	EBA06676.1	388399	Sagittula stellata E-37	Sagittula	Proteobacteria	388399.SSE37_02275	ENOG4105CYX	S	Short-chain dehydrogenase reductase Sdr
+N/A	 hypothetical protein Strop_1435	ABP53901.1	369723	Salinispora tropica CNB-440	Salinispora	Actinobacteria	369723.Strop_1435	ENOG4105RZ8	S	NA
+N/A	 hypothetical protein RUMTOR_02903	EDK22938.1	411460	Ruminococcus torques ATCC 27756	Ruminococcus	Lachnospiraceae	411460.RUMTOR_02903	ENOG41064FP	S	NA
+N/A	 hypothetical protein RUMTOR_02901	EDK22941.1	411460	Ruminococcus torques ATCC 27756	Ruminococcus	Lachnospiraceae	411460.RUMTOR_02901	ENOG41067YX	S	NA
+N/A	 UDP-N-acetylglucosamine 1-carboxyvinyltransferase	EDK23076.1	411460	Ruminococcus torques ATCC 27756	Ruminococcus	Lachnospiraceae	411460.RUMTOR_02753	ENOG4105CDF	M	Cell wall formation. Adds enolpyruvyl to UDP-N- acetylglucosamine (By similarity)
+N/A	 ribosomal protein L13	EDK23280.1	411460	Ruminococcus torques ATCC 27756	Ruminococcus	Lachnospiraceae	411460.RUMTOR_02560	ENOG4108UM5	J	This protein is one of the early assembly proteins of the 50S ribosomal subunit, although it is not seen to bind rRNA by itself. It is important during the early stages of 50S assembly (By similarity)
+N/A	 phosphoserine transaminase	EDK23430.1	411460	Ruminococcus torques ATCC 27756	Ruminococcus	Lachnospiraceae	411460.RUMTOR_02425	ENOG4107QM1	E	Catalyzes the reversible conversion of 3- phosphohydroxypyruvate to phosphoserine and of 3-hydroxy-2-oxo-4- phosphonooxybutanoate to phosphohydroxythreonine (By similarity)
+N/A	 kinase, PfkB family"	EDK24155.1	411460	Ruminococcus torques ATCC 27756	Ruminococcus	Lachnospiraceae	411460.RUMTOR_01612	ENOG4108KPW	G	sugar kinase
+N/A	 carbamoyl-phosphate synthase, large subunit"	EDK24373.1	411460	Ruminococcus torques ATCC 27756	Ruminococcus	Lachnospiraceae	411460.RUMTOR_01428	ENOG4105CU6	F	carbamoyl-phosphate synthetase ammonia chain
+N/A	 repeat protein	EDK24445.1	411460	Ruminococcus torques ATCC 27756	Ruminococcus	Lachnospiraceae	411460.RUMTOR_01174	ENOG4107ERB	S	NA
+N/A	 ABC transporter, solute-binding protein"	EDK24472.1	411460	Ruminococcus torques ATCC 27756	Ruminococcus	Lachnospiraceae	411460.RUMTOR_01201	ENOG4107WVT	G	solute-binding protein
+N/A	 Small, acid-soluble spore protein, alpha/beta type"	EDK24785.1	411460	Ruminococcus torques ATCC 27756	Ruminococcus	Lachnospiraceae	411460.RUMTOR_01051	ENOG4105VWN	S	small acid-soluble spore protein, alpha beta type
+N/A	 ribosomal protein S20	EDK24876.1	411460	Ruminococcus torques ATCC 27756	Ruminococcus	Lachnospiraceae	411460.RUMTOR_01142	ENOG4105KQV	J	Binds directly to 16S ribosomal RNA (By similarity)
+N/A	 ribosomal subunit interface protein	EDK24993.1	411460	Ruminococcus torques ATCC 27756	Ruminococcus	Lachnospiraceae	411460.RUMTOR_00795	ENOG4105MS2	J	ribosomal subunit Interface protein
+N/A	 dockerin type I repeat protein	EDK25360.1	411460	Ruminococcus torques ATCC 27756	Ruminococcus	Lachnospiraceae	411460.RUMTOR_00254	ENOG4105NZF	S	NA
+N/A	 F5/8 type C domain protein	EDK25459.1	411460	Ruminococcus torques ATCC 27756	Ruminococcus	Lachnospiraceae	411460.RUMTOR_00354	ENOG4105ESP	S	cell wall surface anchor family protein
+N/A	 DNA-binding helix-turn-helix protein	EDK25546.1	411460	Ruminococcus torques ATCC 27756	Ruminococcus	Lachnospiraceae	411460.RUMTOR_00441	ENOG4105HYF	K	Transcriptional regulator
+N/A	 homoserine O-succinyltransferase	EDK25776.1	411460	Ruminococcus torques ATCC 27756	Ruminococcus	Lachnospiraceae	411460.RUMTOR_00675	ENOG4105CVG	E	Homoserine O-transsuccinylase
+N/A	 acylCoA:acetate/3-ketoacidCoAtransferase	BAF59758.1	370438	Pelotomaculum thermopropionicum SI	Pelotomaculum	Clostridia	370438.PTH_1577	ENOG4108IIG	I	CoA transferase having broad substrate specificity for short-chain acyl-CoA thioesters with the activity decreasing when the length of the carboxylic acid chain exceeds four carbons (By similarity)
+N/A	 acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II	BAF60071.1	370438	Pelotomaculum thermopropionicum SI	Pelotomaculum	Clostridia	370438.PTH_1890	ENOG4105CEY	IQ	Amp-dependent synthetase and ligase
+N/A	 hypothetical protein PTH_2571	BAF60752.1	370438	Pelotomaculum thermopropionicum SI	Pelotomaculum	Clostridia	370438.PTH_2571	ENOG4107WWN	L	Transposase
+N/A	 Predicted transposase	EDK32622.1	431943	Clostridium kluyveri DSM 555	Clostridium	Clostridiaceae	431943.CKL_0568	ENOG4106P6C	L	Transposase
+N/A	 TonB-linked outer membrane protein, SusC/RagA family"	EDM19162.1	411901	Bacteroides caccae ATCC 43185	Bacteroides	Bacteroidaceae	411901.BACCAC_03668	ENOG4105C27	P	TonB-dependent Receptor Plug
+N/A	 YihY family protein	EDM20321.1	411901	Bacteroides caccae ATCC 43185	Bacteroides	Bacteroidaceae	411901.BACCAC_02488	ENOG4107T01	S	Ribonuclease bn
+N/A	 glycosyltransferase, group 2 family protein"	EDM20484.1	411901	Bacteroides caccae ATCC 43185	Bacteroides	Bacteroidaceae	411901.BACCAC_02659	ENOG4105DVB	M	Glycosyl transferase, family 2
+N/A	 SCP-like protein	EDM49988.1	411463	Eubacterium ventriosum ATCC 27560	Eubacterium	Eubacteriaceae	411463.EUBVEN_02634	ENOG410631E	S	Inherit from NOG: domain protein
+N/A	 nitroreductase family protein	EDM49996.1	411463	Eubacterium ventriosum ATCC 27560	Eubacterium	Eubacteriaceae	411463.EUBVEN_02642	ENOG4105H61	C	Nitroreductase
+N/A	 conserved domain protein	EDM50639.1	411463	Eubacterium ventriosum ATCC 27560	Eubacterium	Eubacteriaceae	411463.EUBVEN_01957	ENOG4108PXN	S	NA
+N/A	 LPXTG-motif cell wall anchor domain protein	EDM50750.1	411463	Eubacterium ventriosum ATCC 27560	Eubacterium	Eubacteriaceae	411463.EUBVEN_02069	ENOG4105GI3	M	Cell wall anchor domain protein
+N/A	 hypothetical protein EUBVEN_01838	EDM51055.1	411463	Eubacterium ventriosum ATCC 27560	Eubacterium	Eubacteriaceae	411463.EUBVEN_01838	ENOG4106YC6	S	NA
+N/A	 ribosomal protein L34	EDM51299.1	411463	Eubacterium ventriosum ATCC 27560	Eubacterium	Eubacteriaceae	411463.EUBVEN_01628	ENOG4105VG0	J	50S ribosomal protein l34
+N/A	 efflux ABC transporter, permease protein"	EDM51653.1	411463	Eubacterium ventriosum ATCC 27560	Eubacterium	Eubacteriaceae	411463.EUBVEN_00958	ENOG4105D0X	V	Efflux ABC transporter, permease protein
+N/A	 hypothetical protein EUBVEN_00529	EDM52149.1	411463	Eubacterium ventriosum ATCC 27560	Eubacterium	Eubacteriaceae	411463.EUBVEN_00529	ENOG410909I	S	NA
+N/A	 MutS2 family protein	EDM52173.1	411463	Eubacterium ventriosum ATCC 27560	Eubacterium	Eubacteriaceae	411463.EUBVEN_00555	ENOG4105C98	L	muts2 protein
+N/A	 hypothetical protein EUBVEN_00517	EDM52307.1	411463	Eubacterium ventriosum ATCC 27560	Eubacterium	Eubacteriaceae	411463.EUBVEN_00517	ENOG41067YX	S	NA
+N/A	 putative alpha-1,2-mannosidase"	EDM52610.1	411463	Eubacterium ventriosum ATCC 27560	Eubacterium	Eubacteriaceae	411463.EUBVEN_00090	ENOG4105CWX	G	Alpha-1,2-mannosidase
+N/A	 hypothetical protein EUBVEN_00074	EDM52636.1	411463	Eubacterium ventriosum ATCC 27560	Eubacterium	Eubacteriaceae	411463.EUBVEN_00074	ENOG4106DZ8	S	NA
+N/A	 hypothetical protein EUBVEN_00032	EDM52654.1	411463	Eubacterium ventriosum ATCC 27560	Eubacterium	Eubacteriaceae	411463.EUBVEN_00032	ENOG4106DZ8	S	NA
+N/A	 hypothetical protein DORLON_03026	EDM61622.1	411462	Dorea longicatena DSM 13814	Dorea	Lachnospiraceae	411462.DORLON_03026	ENOG4106DZ8	S	NA
+N/A	 hypothetical protein DORLON_03023	EDM61623.1	411462	Dorea longicatena DSM 13814	Dorea	Lachnospiraceae	411462.DORLON_03023	ENOG4106DZ8	S	NA
+N/A	 hypothetical protein DORLON_03006	EDM61644.1	411462	Dorea longicatena DSM 13814	Dorea	Lachnospiraceae	411462.DORLON_03006	ENOG4105XTT	S	NA
+N/A	 hypothetical protein DORLON_02997	EDM61645.1	411462	Dorea longicatena DSM 13814	Dorea	Lachnospiraceae	411462.DORLON_02997	ENOG41064FP	S	NA
+N/A	 ribosomal protein S20	EDM62175.1	411462	Dorea longicatena DSM 13814	Dorea	Lachnospiraceae	411462.DORLON_02425	ENOG4105KQV	J	Binds directly to 16S ribosomal RNA (By similarity)
+N/A	 amino acid carrier protein	EDM62333.1	411462	Dorea longicatena DSM 13814	Dorea	Lachnospiraceae	411462.DORLON_02288	ENOG4105BZG	E	amino acid carrier protein
+N/A	 DNA replication and repair protein RecF	EDM62958.1	411462	Dorea longicatena DSM 13814	Dorea	Lachnospiraceae	411462.DORLON_01545	ENOG4105C3X	L	it is required for DNA replication and normal SOS inducibility. RecF binds preferentially to single-stranded, linear DNA. It also seems to bind ATP (By similarity)
+N/A	 DNA polymerase III, beta subunit"	EDM62960.1	411462	Dorea longicatena DSM 13814	Dorea	Lachnospiraceae	411462.DORLON_01547	ENOG4105CZ8	L	DNA polymerase III is a complex, multichain enzyme responsible for most of the replicative synthesis in bacteria. This DNA polymerase also exhibits 3' to 5' exonuclease activity. The beta chain is required for initiation of replication once it is clamped onto DNA, it slides freely (bidirectional and ATP- independent) along duplex DNA (By similarity)
+N/A	 ribosomal protein L34	EDM62962.1	411462	Dorea longicatena DSM 13814	Dorea	Lachnospiraceae	411462.DORLON_01549	ENOG4105VG0	J	50S ribosomal protein l34
+N/A	 ribosomal protein L31	EDM63160.1	411462	Dorea longicatena DSM 13814	Dorea	Lachnospiraceae	411462.DORLON_01479	ENOG41082DI	J	50s ribosomal protein l31
+N/A	 hypothetical protein DORLON_01270	EDM63259.1	411462	Dorea longicatena DSM 13814	Dorea	Lachnospiraceae	411462.DORLON_01270	ENOG4105MA9	S	NA
+N/A	 Sigma-70 region 2	EDM63558.1	411462	Dorea longicatena DSM 13814	Dorea	Lachnospiraceae	411462.DORLON_01224	ENOG4105KD4	K	RNA Polymerase
+N/A	 hypothetical protein DORLON_00959	EDM63675.1	411462	Dorea longicatena DSM 13814	Dorea	Lachnospiraceae	411462.DORLON_00959	ENOG4105D8H	S	NA
+N/A	 DNA ligase (NAD+)	EDM63920.1	411462	Dorea longicatena DSM 13814	Dorea	Lachnospiraceae	411462.DORLON_00597	ENOG4105C77	L	DNA ligase that catalyzes the formation of phosphodiester linkages between 5'-phosphoryl and 3'-hydroxyl groups in double-stranded DNA using NAD as a coenzyme and as the energy source for the reaction. It is essential for DNA replication and repair of damaged DNA (By similarity)
+N/A	 glycosyl hydrolase, family 43"	EDM64207.1	411462	Dorea longicatena DSM 13814	Dorea	Lachnospiraceae	411462.DORLON_00044	ENOG4105CUK	G	Alpha-N-arabinofuranosidase (EC 3.2.1.55)
+N/A	 hypothetical protein DORLON_00168	EDM64322.1	411462	Dorea longicatena DSM 13814	Dorea	Lachnospiraceae	411462.DORLON_00168	ENOG4108ZKN	S	HTH_XRE
+N/A	 hypothetical protein DORLON_00405	EDM64556.1	411462	Dorea longicatena DSM 13814	Dorea	Lachnospiraceae	411462.DORLON_00405	ENOG4105ZTF	S	Membrane Spanning Protein
+N/A	 CO dehydrogenase/CO-methylating acetyl-CoA synthase complex, beta subunit"	EDM85374.1	411459	Blautia obeum ATCC 29174	Blautia	Lachnospiraceae	411459.RUMOBE_04048	ENOG4105E8X	C	CO dehydrogenase acetyl-CoA synthase complex beta subunit
+N/A	 hypothetical protein RUMOBE_03340	EDM86101.1	411459	Blautia obeum ATCC 29174	Blautia	Lachnospiraceae	411459.RUMOBE_03340	ENOG4107UU7	D	regulatory protein
+N/A	 ribosomal protein L29	EDM86173.1	411459	Blautia obeum ATCC 29174	Blautia	Lachnospiraceae	411459.RUMOBE_03279	ENOG41082SA	J	50s ribosomal protein l29
+N/A	 Formiminotransferase-cyclodeaminase	EDM86262.1	411459	Blautia obeum ATCC 29174	Blautia	Lachnospiraceae	411459.RUMOBE_03220	ENOG410908R	E	Methenyltetrahydrofolate cyclohydrolase
+N/A	 hypothetical protein RUMOBE_02590	EDM86687.1	411459	Blautia obeum ATCC 29174	Blautia	Lachnospiraceae	411459.RUMOBE_02590	ENOG41072YN	S	NA
+N/A	 hypothetical protein RUMOBE_02439	EDM87028.1	411459	Blautia obeum ATCC 29174	Blautia	Lachnospiraceae	411459.RUMOBE_02439	ENOG41064FP	S	NA
+N/A	 ABC transporter, permease protein"	EDM87157.1	411459	Blautia obeum ATCC 29174	Blautia	Lachnospiraceae	411459.RUMOBE_02331	ENOG4105EX2	P	Binding-protein-dependent transport systems, inner membrane component
+N/A	 alpha amylase, catalytic domain protein"	EDM87271.1	411459	Blautia obeum ATCC 29174	Blautia	Lachnospiraceae	411459.RUMOBE_02176	ENOG4107QW3	G	Sucrose phosphorylase
+N/A	 diguanylate cyclase (GGDEF) domain protein	EDM87393.1	411459	Blautia obeum ATCC 29174	Blautia	Lachnospiraceae	411459.RUMOBE_01959	ENOG4108K02	T	diguanylate cyclase (ggdef)
+N/A	 hypothetical protein RUMOBE_02030	EDM87464.1	411459	Blautia obeum ATCC 29174	Blautia	Lachnospiraceae	411459.RUMOBE_02030	ENOG4105KRC	S	NA
+N/A	 rSAM-modified six-cysteine peptide	EDM88440.1	411459	Blautia obeum ATCC 29174	Blautia	Lachnospiraceae	411459.RUMOBE_00561	ENOG41067TY	S	RSAM-modified six-cysteine peptide
+N/A	 hypothetical protein RUMOBE_00941	EDM88820.1	411459	Blautia obeum ATCC 29174	Blautia	Lachnospiraceae	411459.RUMOBE_00941	ENOG4105XDK	S	NA
+N/A	 BMC domain protein	EDM88968.1	411459	Blautia obeum ATCC 29174	Blautia	Lachnospiraceae	411459.RUMOBE_00091	ENOG4105KNY	E	Microcompartments protein
+N/A	 ABC transporter, permease protein"	EDM89117.1	411459	Blautia obeum ATCC 29174	Blautia	Lachnospiraceae	411459.RUMOBE_00240	ENOG4105E5Q	E	amino acid AbC transporter
+N/A	 ABC transporter, ATP-binding protein"	EDM89141.1	411459	Blautia obeum ATCC 29174	Blautia	Lachnospiraceae	411459.RUMOBE_00264	ENOG4105C2J	P	ABC transporter
+N/A	 electron transport complex, RnfABCDGE type, C subunit"	EDM89214.1	411459	Blautia obeum ATCC 29174	Blautia	Lachnospiraceae	411459.RUMOBE_00337	ENOG4107QTR	C	Required for nitrogen fixation. May be part of a membrane complex functioning as an intermediate in the electron transport to nitrogenase (By similarity)
+N/A	 hypothetical protein RUMOBE_00417	EDM89294.1	411459	Blautia obeum ATCC 29174	Blautia	Lachnospiraceae	411459.RUMOBE_00417	ENOG4105DDS	S	NA
+N/A	 putative cell wall binding repeat-containing protein	ABR35533.1	290402	Clostridium beijerinckii NCIMB 8052	Clostridium	Clostridiaceae	290402.Cbei_3407	ENOG4105CX7	N	Alpha-L-fucosidase
+N/A	 transposase related protein (20)	ABR35576.1	290402	Clostridium beijerinckii NCIMB 8052	Clostridium	Clostridiaceae	290402.Cbei_3451	ENOG4105GR1	L	transposase
+N/A	 polyA polymerase related protein (HD hydrolase) and P-loop ATP-ase domain	ABR36476.1	290402	Clostridium beijerinckii NCIMB 8052	Clostridium	Clostridiaceae	290402.Cbei_4366	ENOG4105E97	J	Metal dependent phosphohydrolase
+N/A	 putative outer membrane protein, probably involved in nutrient binding"	ABR38641.1	435590	Bacteroides vulgatus ATCC 8482	Bacteroides	Bacteroidaceae	435590.BVU_0946	ENOG4105C27	P	TonB-dependent Receptor Plug
+N/A	 hypothetical protein BDI_2794	ABR44507.1	435591	Parabacteroides distasonis ATCC 8503	Parabacteroides	Porphyromonadaceae	435591.BDI_2794	ENOG4106ZDV	S	NA
+N/A	 conserved hypothetical protein	ABR44663.1	435591	Parabacteroides distasonis ATCC 8503	Parabacteroides	Porphyromonadaceae	435591.BDI_2955	ENOG4108GYP	S	domain protein
+N/A	 transcriptional regulator, XRE family"	ABR46978.1	293826	Alkaliphilus metalliredigens QYMF	Alkaliphilus	Clostridiaceae	293826.Amet_0753	ENOG4107JSJ	K	HTH_XRE
+N/A	 DNA methylase N-4/N-6 domain protein	ABR48734.1	293826	Alkaliphilus metalliredigens QYMF	Alkaliphilus	Clostridiaceae	293826.Amet_2582	ENOG4107RMW	L	DNA Methylase
+N/A	 NLP/P60 protein	ABR49400.1	293826	Alkaliphilus metalliredigens QYMF	Alkaliphilus	Clostridiaceae	293826.Amet_3262	ENOG4105K4H	M	Nlp p60 protein
+N/A	 hypothetical protein Amet_3897	ABR49995.1	293826	Alkaliphilus metalliredigens QYMF	Alkaliphilus	Clostridiaceae	293826.Amet_3897	ENOG4108TPQ	S	NA
+N/A	 hypothetical protein Amet_4084	ABR50166.1	293826	Alkaliphilus metalliredigens QYMF	Alkaliphilus	Clostridiaceae	293826.Amet_4084	ENOG4106BWY	S	NA
