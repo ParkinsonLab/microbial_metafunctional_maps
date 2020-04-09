@@ -1,0 +1,90 @@
+<!--
+  ============================================================================
+  index.html
+ 
+  Description:  This program parses xlsx files to construct NODE and EDGE 
+                components.  The format was adopted from Hyperscape by 
+				        Anthony Zhao. The resulting parsed data is used to render 
+                the visualization. Functional categories and subnetworks are
+				        displayed based on user selection of cellular location.
+                                
+//-----------------------------------------------------------------------------
+  2020  Minh An Ho
+  ============================================================================
+
+-->
+
+<html>
+  <head>
+  <meta http-equiv='content-type' content='text/html' charset='utf-8' />
+  <meta http-equiv='content-language' content='en-us' />
+
+  <title>BCB430 Project</title>
+  <script src="./js/d3.min.js "></script>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" type="text/css" href="theme/defaults.css">
+  <link rel="stylesheet" type="text/css" href="theme/style.css">
+
+
+  </head>
+  <body id="home">
+    <div class="banner" style="padding-top:15px; padding-bottom:2px; text-align:center; background-color: #4CAF50;">
+      <div class="banner-content">
+      <h1 style="font-family:avenir; color: white; font-size: 32px;"><b>Microbial Metafunctional Maps</b></h1>
+      <p style="font-family:avenir; color: black;">BCB430: 2020 Minh An Ho</p>
+      </div>
+    </div>
+
+    <script src="js/jquery-3.4.1.js"></script>
+    <script src="js/xlsx.mini.flow.js"></script>
+    <script src="js/require.js"></script>
+
+
+    <form action="/action_page.php">
+      <p style="font-family:avenir; margin-left:10%;">Select an input file: <input type="file" id="input" name="filename" value="maybe"></p>
+      <p style="font-family:avenir; margin-left:10%;">Select an cellular location file: <input type="file" id="cellInput" name="filename" value="maybe"></p>
+      <p style="font-family:avenir; margin-left:10%;">Select an family ratio file:<input type="file" id="familyInput" name="filename" value="maybe" style="padding-bottom:15px;"></p>
+    </form>
+
+      <div class="btn-group" id="cell_stuff" style="width:25%; padding-bottom: 25px; display:none;">
+      <button onClick="getMyButtons(this.id, this.value)" id="cell_place" type="submit" style="width:100%; display:none;" value="empty">empty</button>
+      <button onClick="getMyButtons(this.id, this.value)" id="cell_place" type="submit" style="width:100%" value="intracellular">Intracellular</button>
+      <button onClick="getMyButtons(this.id, this.value)" id="cell_place" type="submit" style="width:100%" value="ribosome">Ribosome</button>
+      <button onClick="getMyButtons(this.id, this.value)" id="cell_place" type="submit" style="width:100%" value="cell wall">Cell Wall</button>
+      <button onClick="getMyButtons(this.id, this.value)" id="cell_place" type="submit" style="width:100%" value="cytoplasm">Cytoplasm</button>
+      <button onClick="getMyButtons(this.id, this.value)" id="cell_place" type="submit" style="width:100%" value="external encapsulating structure">External Structure</button>
+      <button onClick="getMyButtons(this.id, this.value)" id="cell_place" type="submit" style="width:100%" value="cell">Cell</button>
+      <button onClick="getMyButtons(this.id, this.value)" id="cell_place" type="submit" style="width:100%" value="unknown">Unknown</button>
+      <button onClick="getMyButtons(this.id, this.value)" id="cell_place" type="submit" style="width:100%" value="all nodes">All Nodes</button>
+    </div>
+
+    <h5 id = "locHeader" style="font-family:avenir; padding-top:15px;margin-left: 10%; display:none;">The sub-cellular unit selected is:  <span id="myText"></span></h5>
+   
+    <div class="btn-group" id="check_cells" style="width:25%; padding-bottom: 25px;">
+    </div>
+
+  <img id= "cell_map" style="display:none;" src="/Users/minhanho/Documents/BCB430-HyperScape/cell-map.jpg" alt="Cell map">
+  
+
+  <div id = "myDIV"></div>
+
+  <div id="canvas"></div>
+  <div id="canvas2"></div>
+
+  <script>
+    var	margin = {top: 30, right: 20, bottom: 30, left: 50},
+        width = 400 - margin.left - margin.right,
+        height = 220 - margin.top - margin.bottom;
+    vis3 = d3.select("#canvas3")
+      .append("svg:svg")
+      .attr("class", "canvas")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
+  </script>
+  </body>
+
+
+  <script src="js/index.js"></script>
+
+</html>
+    
