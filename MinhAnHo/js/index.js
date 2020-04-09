@@ -259,8 +259,8 @@ function parseXLSX(file_array){
 	for (var i = 1; i< file_array.length; i++){
 		data["textInput"] = data["textInput"].concat("        NODE\t", file_array[i][3], "\n");
 		data["textFunc"] = data["textFunc"].concat(file_array[i][3], " = ", file_array[i][5], "\n");
-		if (file_array[i][2] != "NO"){
-			data["textName"] = data["textName"].concat(file_array[i][3], " = ", file_array[i][1],"\n");
+		if (file_array[i][1] != "NO"){
+			data["textName"] = data["textName"].concat(file_array[i][3], " = ", file_array[i][0],"\n");
 		}
 	}
 	for (var i = 1; i< file_array.length; i++){
