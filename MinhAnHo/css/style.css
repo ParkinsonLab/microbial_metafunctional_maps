@@ -1,0 +1,116 @@
+/*
+//-----------------------------------------------------------------------------
+//  style.css
+// 
+//  Description:  This program parses xlsx files to construct NODE and EDGE 
+//                components.  The format was adopted from Hyperscape by 
+//				  Anthony Zhao. The resulting parsed data is used to render 
+//                the visualization. Functional categories and subnetworks are
+//				  displayed based on user selection of cellular location.
+//                                
+//-----------------------------------------------------------------------------
+//  2020 Minh An Ho
+//-----------------------------------------------------------------------------
+*/
+.textArea{
+	width: 406px;
+	height: 16.5vh;
+	resize: none;
+	color: #FFFFFF;
+	opacity: 1;
+	background-color : solid #FFFFFF;
+}
+
+.textAreaWithLines{
+	font-family:courier;      
+	border:2px solid #3D3D3D;  
+}
+
+.textAreaWithLines textarea,.textAreaWithLines div{
+	border:0px;
+	line-height:120%;
+	font-size:12px;
+}
+
+.stage{
+	position: fixed;
+	top: 110px;
+	height: 80vh;
+	width:200vh;
+}
+
+.btn-group button {
+	background-color: #4CAF50; /* Green background */
+	border: 1px solid green; /* Green border */
+	color: white; /* White text */
+	padding: 10px 24px; /* Some padding */
+	cursor: pointer; /* Pointer/hand icon */
+	margin-left: 40%;
+  }
+  
+  .btn-group button:not(:last-child) {
+	border-right: none; /* Prevent double borders */
+  }
+  
+  /* Clear floats (clearfix hack) */
+  .btn-group:after {
+	content: "";
+	clear: both;
+	display: table;
+  }
+  
+  /* Add a background color on hover */
+  .btn-group button:hover {
+	background-color: #3e8e41;
+  }
+.canvas {
+	border: 1px dotted #ccc;
+	margin-left: 10%;
+	width:  80%;
+	height: 60%;
+}
+div h3{
+	margin-left: 10%;
+  }
+
+img {
+	width: 500px;
+	height: 350px;
+	position: absolute;
+	top: 225px;
+	left: 15%;
+	margin-left: 30%;
+	overflow: hidden;
+}
+
+.cellFrame{
+	width: 406px;
+	height: 16.5vh;
+	border:2px solid #3D3D3D;  
+	color: #FFFFFF;
+	opacity: 1;
+	background-color : solid #FFFFFF;
+}
+.block{
+	width: 100%;
+	height: 5%;
+}
+
+.controls{
+	position: relative;
+	}
+	.lights_off {
+	  max-width: 8%;
+	  min-width: none;
+	  overflow: hidden;
+	}
+	.image_container{
+	  height: 250px;
+	  display: flex;
+	  justify-content: center;
+	  align-items: center;
+	  position: absolute;
+	  top: 215px;
+	  left: 15%;
+	  margin-left: 30%;
+	}
