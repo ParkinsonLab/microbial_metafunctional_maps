@@ -1,0 +1,681 @@
+GO:0015074	involved_in	DNA integration	IEA	P
+GO:0003677	enables	DNA binding	IEA	F
+GO:0006310	involved_in	DNA recombination	IEA	P
+GO:0006310	involved_in	DNA recombination	IEA	P
+GO:0015074	involved_in	DNA integration	IEA	P
+GO:0003677	enables	DNA binding	IEA	F
+GO:0006310	involved_in	DNA recombination	IEA	P
+GO:0006310	involved_in	DNA recombination	IEA	P
+GO:0015074	involved_in	DNA integration	IEA	P
+GO:0003677	enables	DNA binding	IEA	F
+GO:0006310	involved_in	DNA recombination	IEA	P
+GO:0006310	involved_in	DNA recombination	IEA	P
+GO:0030255	involved_in	protein secretion by the type IV secretion system	IEA	P
+GO:0016021	part_of	integral component of membrane	IEA	C
+GO:0016020	part_of	membrane	IEA	C
+GO:0016020	part_of	membrane	IEA	C
+GO:0016021	part_of	integral component of membrane	IEA	C
+GO:0005524	enables	ATP binding	IEA	F
+GO:0016020	part_of	membrane	IEA	C
+GO:0030255	involved_in	protein secretion by the type IV secretion system	IEA	P
+GO:0016020	part_of	membrane	IEA	C
+GO:0016021	part_of	integral component of membrane	IEA	C
+GO:0016020	part_of	membrane	IEA	C
+GO:0016021	part_of	integral component of membrane	IEA	C
+GO:0016021	part_of	integral component of membrane	IEA	C
+GO:0016020	part_of	membrane	IEA	C
+GO:0004190	enables	aspartic-type endopeptidase activity	IEA	F
+GO:0016020	part_of	membrane	IEA	C
+GO:0016021	part_of	integral component of membrane	IEA	C
+GO:0016020	part_of	membrane	IEA	C
+GO:0006508	involved_in	proteolysis	IEA	P
+GO:0016020	part_of	membrane	IEA	C
+GO:0016021	part_of	integral component of membrane	IEA	C
+GO:0009291	involved_in	unidirectional conjugation	IEA	P
+GO:0016020	part_of	membrane	IEA	C
+GO:0016020	part_of	membrane	IEA	C
+GO:0016021	part_of	integral component of membrane	IEA	C
+GO:0016021	part_of	integral component of membrane	IEA	C
+GO:0016020	part_of	membrane	IEA	C
+GO:0015074	involved_in	DNA integration	IEA	P
+GO:0003677	enables	DNA binding	IEA	F
+GO:0006310	involved_in	DNA recombination	IEA	P
+GO:0006310	involved_in	DNA recombination	IEA	P
+GO:0003677	enables	DNA binding	IEA	F
+GO:0016020	part_of	membrane	IEA	C
+GO:0016021	part_of	integral component of membrane	IEA	C
+GO:0043684	part_of	type IV secretion system complex	IEA	C
+GO:0044097	involved_in	secretion by the type IV secretion system	IEA	P
+GO:0005524	enables	ATP binding	IEA	F
+GO:0000166	enables	nucleotide binding	IEA	F
+GO:0005737	part_of	cytoplasm	IEA	C
+GO:0005737	part_of	cytoplasm	IEA	C
+GO:0043684	part_of	type IV secretion system complex	IEA	C
+GO:0005737	part_of	cytoplasm	IEA	C
+GO:0005524	enables	ATP binding	IEA	F
+GO:0009297	involved_in	pilus assembly	IEA	P
+GO:0019867	part_of	outer membrane	IEA	C
+GO:0009306	involved_in	protein secretion	IEA	P
+GO:0003917	enables	"DNA topoisomerase type I (single strand cut, ATP-independent) activity"	IEA	F
+GO:0003677	enables	DNA binding	IEA	F
+GO:0003916	enables	DNA topoisomerase activity	IEA	F
+GO:0006265	involved_in	DNA topological change	IEA	P
+GO:0003677	enables	DNA binding	IEA	F
+GO:0016021	part_of	integral component of membrane	IEA	C
+GO:0016020	part_of	membrane	IEA	C
+GO:0016020	part_of	membrane	IEA	C
+GO:0016021	part_of	integral component of membrane	IEA	C
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0016021	part_of	integral component of membrane	IEA	C
+GO:0016020	part_of	membrane	IEA	C
+GO:0016020	part_of	membrane	IEA	C
+GO:0016021	part_of	integral component of membrane	IEA	C
+GO:0004803	enables	transposase activity	IEA	F
+GO:0006313	involved_in	"transposition, DNA-mediated"	IEA	P
+GO:0003677	enables	DNA binding	IEA	F
+GO:0015074	involved_in	DNA integration	IEA	P
+GO:0003676	enables	nucleic acid binding	IEA	F
+GO:0032196	involved_in	transposition	IEA	P
+GO:0016020	part_of	membrane	IEA	C
+GO:0016021	part_of	integral component of membrane	IEA	C
+GO:0016020	part_of	membrane	IEA	C
+GO:0046677	involved_in	response to antibiotic	IEA	P
+GO:0005524	enables	ATP binding	IEA	F
+GO:0016773	enables	"phosphotransferase activity, alcohol group as acceptor"	IEA	F
+GO:0046677	involved_in	response to antibiotic	IEA	P
+GO:0046872	enables	metal ion binding	IEA	F
+GO:0016301	enables	kinase activity	IEA	F
+GO:0016740	enables	transferase activity	IEA	F
+GO:0005524	enables	ATP binding	IEA	F
+GO:0000166	enables	nucleotide binding	IEA	F
+GO:0016310	involved_in	phosphorylation	IEA	P
+GO:0016020	part_of	membrane	IEA	C
+GO:0016021	part_of	integral component of membrane	IEA	C
+GO:0006351	involved_in	"transcription, DNA-templated"	IEA	P
+GO:0033592	enables	RNA strand annealing activity	IEA	F
+GO:0003723	enables	RNA binding	IEA	F
+GO:0010608	involved_in	posttranscriptional regulation of gene expression	IEA	P
+GO:0034057	enables	RNA strand-exchange activity	IEA	F
+GO:0003723	enables	RNA binding	IEA	F
+GO:0005737	part_of	cytoplasm	IEA	C
+GO:0005737	part_of	cytoplasm	IEA	C
+GO:0016021	part_of	integral component of membrane	IEA	C
+GO:0016020	part_of	membrane	IEA	C
+GO:0043565	enables	sequence-specific DNA binding	IEA	F
+GO:0006276	involved_in	plasmid maintenance	IEA	P
+GO:0016021	part_of	integral component of membrane	IEA	C
+GO:0016020	part_of	membrane	IEA	C
+GO:0016021	part_of	integral component of membrane	IEA	C
+GO:0016020	part_of	membrane	IEA	C
+GO:0004565	enables	beta-galactosidase activity	IEA	F
+GO:0005975	involved_in	carbohydrate metabolic process	IEA	P
+GO:0009341	part_of	beta-galactosidase complex	IEA	C
+GO:0003824	enables	catalytic activity	IEA	F
+GO:0004553	enables	"hydrolase activity, hydrolyzing O-glycosyl compounds"	IEA	F
+GO:0016798	enables	"hydrolase activity, acting on glycosyl bonds"	IEA	F
+GO:0030246	enables	carbohydrate binding	IEA	F
+GO:0046872	enables	metal ion binding	IEA	F
+GO:0016787	enables	hydrolase activity	IEA	F
+GO:0008152	involved_in	metabolic process	IEA	P
+GO:0016798	enables	"hydrolase activity, acting on glycosyl bonds"	IEA	F
+GO:0004565	enables	beta-galactosidase activity	IEA	F
+GO:0000287	enables	magnesium ion binding	IEA	F
+GO:0016798	enables	"hydrolase activity, acting on glycosyl bonds"	IEA	F
+GO:0004803	enables	transposase activity	IEA	F
+GO:0006313	involved_in	"transposition, DNA-mediated"	IEA	P
+GO:0003677	enables	DNA binding	IEA	F
+GO:0007165	involved_in	signal transduction	IEA	P
+GO:0016772	enables	"transferase activity, transferring phosphorus-containing groups"	IEA	F
+GO:0000155	enables	phosphorelay sensor kinase activity	IEA	F
+GO:0016021	part_of	integral component of membrane	IEA	C
+GO:0016310	involved_in	phosphorylation	IEA	P
+GO:0016740	enables	transferase activity	IEA	F
+GO:0016301	enables	kinase activity	IEA	F
+GO:0005524	enables	ATP binding	IEA	F
+GO:0005886	part_of	plasma membrane	IEA	C
+GO:0000160	involved_in	phosphorelay signal transduction system	IEA	P
+GO:0016021	part_of	integral component of membrane	IEA	C
+GO:0000166	enables	nucleotide binding	IEA	F
+GO:0016020	part_of	membrane	IEA	C
+GO:0016310	involved_in	phosphorylation	IEA	P
+GO:0004673	enables	protein histidine kinase activity	IEA	F
+GO:0023014	involved_in	signal transduction by protein phosphorylation	IEA	P
+GO:0018106	involved_in	peptidyl-histidine phosphorylation	IEA	P
+GO:0009289	part_of	pilus	IEA	C
+GO:0007155	involved_in	cell adhesion	IEA	P
+GO:0003677	enables	DNA binding	IEA	F
+GO:0006355	involved_in	"regulation of transcription, DNA-templated"	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0017148	involved_in	negative regulation of translation	IEA	P
+GO:0006617	involved_in	"SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition"	IEA	P
+GO:0048501	part_of	"signal recognition particle, plasma membrane targeting"	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0034198	involved_in	cellular response to amino acid starvation	IEA	P
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0017148	involved_in	negative regulation of translation	IEA	P
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0017148	involved_in	negative regulation of translation	IEA	P
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0040033	involved_in	"negative regulation of translation, ncRNA-mediated"	IEA	P
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0017148	involved_in	negative regulation of translation	IEA	P
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0017148	involved_in	negative regulation of translation	IEA	P
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0030371	enables	translation repressor activity	IEA	F
+GO:0032057	involved_in	negative regulation of translational initiation in response to stress	IEA	P
+GO:0043488	involved_in	regulation of mRNA stability	IEA	P
+GO:0030371	enables	translation repressor activity	IEA	F
+GO:0032057	involved_in	negative regulation of translational initiation in response to stress	IEA	P
+GO:0043488	involved_in	regulation of mRNA stability	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0034198	involved_in	cellular response to amino acid starvation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0009299	involved_in	mRNA transcription	IEA	P
+GO:0045727	involved_in	positive regulation of translation	IEA	P
+GO:0009299	involved_in	mRNA transcription	IEA	P
+GO:0045727	involved_in	positive regulation of translation	IEA	P
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0010468	involved_in	regulation of gene expression	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0017148	involved_in	negative regulation of translation	IEA	P
+GO:0010629	involved_in	negative regulation of gene expression	IEA	P
+GO:0010629	involved_in	negative regulation of gene expression	IEA	P
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0010468	involved_in	regulation of gene expression	IEA	P
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0017148	involved_in	negative regulation of translation	IEA	P
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0017148	involved_in	negative regulation of translation	IEA	P
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0006401	involved_in	RNA catabolic process	IEA	P
+GO:0006401	involved_in	RNA catabolic process	IEA	P
+GO:0006401	involved_in	RNA catabolic process	IEA	P
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0006950	involved_in	response to stress	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0034198	involved_in	cellular response to amino acid starvation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0006617	involved_in	"SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition"	IEA	P
+GO:0048501	part_of	"signal recognition particle, plasma membrane targeting"	IEA	C
+GO:0006617	involved_in	"SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition"	IEA	P
+GO:0048501	part_of	"signal recognition particle, plasma membrane targeting"	IEA	C
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0010039	involved_in	response to iron ion	IEA	P
+GO:0046677	involved_in	response to antibiotic	IEA	P
+GO:0010039	involved_in	response to iron ion	IEA	P
+GO:0046677	involved_in	response to antibiotic	IEA	P
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0034198	involved_in	cellular response to amino acid starvation	IEA	P
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0006950	involved_in	response to stress	IEA	P
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0004526	enables	ribonuclease P activity	IEA	F
+GO:0008033	involved_in	tRNA processing	IEA	P
+GO:0090501	involved_in	RNA phosphodiester bond hydrolysis	IEA	P
+GO:0090502	involved_in	"RNA phosphodiester bond hydrolysis, endonucleolytic"	IEA	P
+GO:0030680	part_of	dimeric ribonuclease P complex	IEA	C
+GO:0004526	enables	ribonuclease P activity	IEA	F
+GO:0008033	involved_in	tRNA processing	IEA	P
+GO:0090501	involved_in	RNA phosphodiester bond hydrolysis	IEA	P
+GO:0090502	involved_in	"RNA phosphodiester bond hydrolysis, endonucleolytic"	IEA	P
+GO:0030680	part_of	dimeric ribonuclease P complex	IEA	C
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0006950	involved_in	response to stress	IEA	P
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0006950	involved_in	response to stress	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0006617	involved_in	"SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition"	IEA	P
+GO:0048501	part_of	"signal recognition particle, plasma membrane targeting"	IEA	C
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0040033	involved_in	"negative regulation of translation, ncRNA-mediated"	IEA	P
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0040033	involved_in	"negative regulation of translation, ncRNA-mediated"	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0017148	involved_in	negative regulation of translation	IEA	P
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0017148	involved_in	negative regulation of translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0017148	involved_in	negative regulation of translation	IEA	P
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0017148	involved_in	negative regulation of translation	IEA	P
+GO:0005515	enables	protein binding	IEA	F
+GO:0005515	enables	protein binding	IEA	F
+GO:0005515	enables	protein binding	IEA	F
+GO:0006417	involved_in	regulation of translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0034198	involved_in	cellular response to amino acid starvation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0034198	involved_in	cellular response to amino acid starvation	IEA	P
+GO:0034198	involved_in	cellular response to amino acid starvation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0034198	involved_in	cellular response to amino acid starvation	IEA	P
+GO:0034198	involved_in	cellular response to amino acid starvation	IEA	P
+GO:0034198	involved_in	cellular response to amino acid starvation	IEA	P
+GO:0034198	involved_in	cellular response to amino acid starvation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0034198	involved_in	cellular response to amino acid starvation	IEA	P
+GO:0034198	involved_in	cellular response to amino acid starvation	IEA	P
+GO:0034198	involved_in	cellular response to amino acid starvation	IEA	P
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0034198	involved_in	cellular response to amino acid starvation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0034198	involved_in	cellular response to amino acid starvation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0034198	involved_in	cellular response to amino acid starvation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0034198	involved_in	cellular response to amino acid starvation	IEA	P
+GO:0030371	enables	translation repressor activity	IEA	F
+GO:0017148	involved_in	negative regulation of translation	IEA	P
+GO:0046677	involved_in	response to antibiotic	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0030533	enables	triplet codon-amino acid adaptor activity	IEA	F
+GO:0006412	involved_in	translation	IEA	P
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0034198	involved_in	cellular response to amino acid starvation	IEA	P
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0003735	enables	structural constituent of ribosome	IEA	F
+GO:0005840	part_of	ribosome	IEA	C
+GO:0034198	involved_in	cellular response to amino acid starvation	IEA	P
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0017148	involved_in	negative regulation of translation	IEA	P
+GO:0005515	enables	protein binding	IEA	F
+GO:0006417	involved_in	regulation of translation	IEA	P
+GO:0006113	involved_in	fermentation	IEA	P
+GO:0006950	involved_in	response to stress	IEA	P
+GO:0003729	enables	mRNA binding	IEA	F
+GO:0040033	involved_in	"negative regulation of translation, ncRNA-mediated"	IEA	P
+GO:0030371	enables	translation repressor activity	IEA	F
+GO:0017148	involved_in	negative regulation of translation	IEA	P

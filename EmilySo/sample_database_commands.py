@@ -18,7 +18,7 @@ eggnog_connection = psycopg2.connect(user = "meta_user",
                               database = "eggnog_sample_tables")
 eggnog_cursor = eggnog_connection.cursor()
 #adjusting the input data
-# with open("/path/to/Emily_Stable.txt","r") as file_2, \
+with open("/path/to/Emily_Stable.txt","r") as file_2, \
 open("/path/to/new_input_data.txt","w") as out:
 	next(file_2)
 	for line in file_2:
@@ -145,7 +145,7 @@ with open("/path/to/refseq_to_enog.txt","r") as infile, open("/path/to/finding_b
 
 #finding all the interacting proteins of the proteins in the input data  
 with open("/path/to/refseq_to_enog.txt","r") as infile_1, \
-open("/path/to/refseq_to_enog_with_interactions.txt","w") as outfile:
+open("/path/to/interaction_output_data.txt","w") as outfile:
   outfile.write("ncbi taxid\trefseq id\tstring_id\tgroupid\tcog_category\tinteracting protein\tinteracting protein cog\n")
   outfile.flush()
   next(infile_1)
@@ -283,7 +283,7 @@ open("/path/to/new_members_by_tax_id.txt","r") as infile:
 			outfile.flush()
 
 #creating the output data 
-with open("/path/to/refseq_to_enog_with_interactions.txt","r") as inputfile,\
+with open("/path/to/interaction_output_data.txt","r") as inputfile,\
 open("/path/to/final_output_info.txt",'w') as outputfile:
 	outputfile.write("refseq\tncbi_taxid\tlocus\tname\tstrain\tgenus\tsupergroup\tgroupid\tcog_category\tinteracting protein\tinteracting protein cog")
 	for line in inputfile:
