@@ -1,0 +1,106 @@
+string_id	groupid	cog_category	description
+335541.Swol_1084	ENOG4105CEY	IQ	Amp-dependent synthetase and ligase
+314231.FP2506_03039	ENOG4107WBH	M	OmpA family
+335543.Sfum_1859	ENOG4106Q5Z	S	NA
+386043.lwe0429	ENOG4106GKD	M	domain protein
+196162.Noca_4620	ENOG4105DRV	Q	RelA SpoT domain protein
+203119.Cthe_1631	ENOG4107UF6	S	Abortive infection phage resistance protein
+203119.Cthe_2460	ENOG4108IMY	K	Transcriptional regulator
+388399.SSE37_02275	ENOG4105CYX	S	Short-chain dehydrogenase reductase Sdr
+369723.Strop_1435	ENOG4105RZ8	S	NA
+411460.RUMTOR_02903	ENOG41064FP	S	NA
+411460.RUMTOR_02901	ENOG41067YX	S	NA
+411460.RUMTOR_02753	ENOG4105CDF	M	Cell wall formation. Adds enolpyruvyl to UDP-N- acetylglucosamine (By similarity)
+411460.RUMTOR_02560	ENOG4108UM5	J	This protein is one of the early assembly proteins of the 50S ribosomal subunit, although it is not seen to bind rRNA by itself. It is important during the early stages of 50S assembly (By similarity)
+411460.RUMTOR_02425	ENOG4107QM1	E	Catalyzes the reversible conversion of 3- phosphohydroxypyruvate to phosphoserine and of 3-hydroxy-2-oxo-4- phosphonooxybutanoate to phosphohydroxythreonine (By similarity)
+411460.RUMTOR_02000	-	N/A	N/A
+411460.RUMTOR_01612	ENOG4108KPW	G	sugar kinase
+411460.RUMTOR_01428	ENOG4105CU6	F	carbamoyl-phosphate synthetase ammonia chain
+411460.RUMTOR_01174	ENOG4107ERB	S	NA
+411460.RUMTOR_01201	ENOG4107WVT	G	solute-binding protein
+411460.RUMTOR_01051	ENOG4105VWN	S	small acid-soluble spore protein, alpha beta type
+411460.RUMTOR_01142	ENOG4105KQV	J	Binds directly to 16S ribosomal RNA (By similarity)
+411460.RUMTOR_00795	ENOG4105MS2	J	ribosomal subunit Interface protein
+411460.RUMTOR_00254	ENOG4105NZF	S	NA
+411460.RUMTOR_00354	ENOG4105ESP	S	cell wall surface anchor family protein
+411460.RUMTOR_00441	ENOG4105HYF	K	Transcriptional regulator
+411460.RUMTOR_00675	ENOG4105CVG	E	Homoserine O-transsuccinylase
+370438.PTH_1577	ENOG4108IIG	I	CoA transferase having broad substrate specificity for short-chain acyl-CoA thioesters with the activity decreasing when the length of the carboxylic acid chain exceeds four carbons (By similarity)
+370438.PTH_1890	ENOG4105CEY	IQ	Amp-dependent synthetase and ligase
+370438.PTH_2571	ENOG4107WWN	L	Transposase
+431943.CKL_0568	ENOG4106P6C	L	Transposase
+443906.CMM_2463	-	N/A	N/A
+411901.BACCAC_03665	-	N/A	N/A
+411901.BACCAC_03668	ENOG4105C27	P	TonB-dependent Receptor Plug
+411901.BACCAC_03171	-	N/A	N/A
+411901.BACCAC_02488	ENOG4107T01	S	Ribonuclease bn
+411901.BACCAC_02659	ENOG4105DVB	M	Glycosyl transferase, family 2
+411901.BACCAC_00112	-	N/A	N/A
+411901.BACCAC_00533	-	N/A	N/A
+411463.EUBVEN_02634	ENOG410631E	S	Inherit from NOG: domain protein
+411463.EUBVEN_02642	ENOG4105H61	C	Nitroreductase
+411463.EUBVEN_01957	ENOG4108PXN	S	NA
+411463.EUBVEN_02069	ENOG4105GI3	M	Cell wall anchor domain protein
+411463.EUBVEN_01838	ENOG4106YC6	S	NA
+411463.EUBVEN_01628	ENOG4105VG0	J	50S ribosomal protein l34
+411463.EUBVEN_00958	ENOG4105D0X	V	Efflux ABC transporter, permease protein
+411463.EUBVEN_00529	ENOG410909I	S	NA
+411463.EUBVEN_00555	ENOG4105C98	L	muts2 protein
+411463.EUBVEN_00410	-	N/A	N/A
+411463.EUBVEN_00517	ENOG41067YX	S	NA
+411463.EUBVEN_00522	-	N/A	N/A
+411463.EUBVEN_00348	-	N/A	N/A
+411463.EUBVEN_00322	-	N/A	N/A
+411463.EUBVEN_00090	ENOG4105CWX	G	Alpha-1,2-mannosidase
+411463.EUBVEN_00074	ENOG4106DZ8	S	NA
+411463.EUBVEN_00056	-	N/A	N/A
+411462.DORLON_03026	ENOG4106DZ8	S	NA
+411462.DORLON_03023	ENOG4106DZ8	S	NA
+411462.DORLON_03006	ENOG4105XTT	S	NA
+411462.DORLON_02997	ENOG41064FP	S	NA
+411462.DORLON_02425	ENOG4105KQV	J	Binds directly to 16S ribosomal RNA (By similarity)
+411462.DORLON_02288	ENOG4105BZG	E	amino acid carrier protein
+411462.DORLON_02056	-	N/A	N/A
+411462.DORLON_01545	ENOG4105C3X	L	it is required for DNA replication and normal SOS inducibility. RecF binds preferentially to single-stranded, linear DNA. It also seems to bind ATP (By similarity)
+411462.DORLON_01547	ENOG4105CZ8	L	DNA polymerase III is a complex, multichain enzyme responsible for most of the replicative synthesis in bacteria. This DNA polymerase also exhibits 3' to 5' exonuclease activity. The beta chain is required for initiation of replication once it is clamped onto DNA, it slides freely (bidirectional and ATP- independent) along duplex DNA (By similarity)
+411462.DORLON_01549	ENOG4105VG0	J	50S ribosomal protein l34
+411462.DORLON_01479	ENOG41082DI	J	50s ribosomal protein l31
+411462.DORLON_01270	ENOG4105MA9	S	NA
+411462.DORLON_01224	ENOG4105KD4	K	RNA Polymerase
+411462.DORLON_00959	ENOG4105D8H	S	NA
+411462.DORLON_00597	ENOG4105C77	L	DNA ligase that catalyzes the formation of phosphodiester linkages between 5'-phosphoryl and 3'-hydroxyl groups in double-stranded DNA using NAD as a coenzyme and as the energy source for the reaction. It is essential for DNA replication and repair of damaged DNA (By similarity)
+411462.DORLON_00695	-	N/A	N/A
+411462.DORLON_00044	ENOG4105CUK	G	Alpha-N-arabinofuranosidase (EC 3.2.1.55)
+411462.DORLON_00168	ENOG4108ZKN	S	HTH_XRE
+411462.DORLON_00405	ENOG4105ZTF	S	Membrane Spanning Protein
+391625.PPSIR1_03633	-	N/A	N/A
+411459.RUMOBE_04048	ENOG4105E8X	C	CO dehydrogenase acetyl-CoA synthase complex beta subunit
+411459.RUMOBE_03340	ENOG4107UU7	D	regulatory protein
+411459.RUMOBE_03279	ENOG41082SA	J	50s ribosomal protein l29
+411459.RUMOBE_03220	ENOG410908R	E	Methenyltetrahydrofolate cyclohydrolase
+411459.RUMOBE_02590	ENOG41072YN	S	NA
+411459.RUMOBE_02439	ENOG41064FP	S	NA
+411459.RUMOBE_02331	ENOG4105EX2	P	Binding-protein-dependent transport systems, inner membrane component
+411459.RUMOBE_02176	ENOG4107QW3	G	Sucrose phosphorylase
+411459.RUMOBE_01959	ENOG4108K02	T	diguanylate cyclase (ggdef)
+411459.RUMOBE_02030	ENOG4105KRC	S	NA
+411459.RUMOBE_01081	-	N/A	N/A
+411459.RUMOBE_00561	ENOG41067TY	S	RSAM-modified six-cysteine peptide
+411459.RUMOBE_00941	ENOG4105XDK	S	NA
+411459.RUMOBE_00091	ENOG4105KNY	E	Microcompartments protein
+411459.RUMOBE_00240	ENOG4105E5Q	E	amino acid AbC transporter
+411459.RUMOBE_00264	ENOG4105C2J	P	ABC transporter
+411459.RUMOBE_00337	ENOG4107QTR	C	Required for nitrogen fixation. May be part of a membrane complex functioning as an intermediate in the electron transport to nitrogenase (By similarity)
+411459.RUMOBE_00417	ENOG4105DDS	S	NA
+290402.Cbei_3190	-	N/A	N/A
+290402.Cbei_3407	ENOG4105CX7	N	Alpha-L-fucosidase
+290402.Cbei_3451	ENOG4105GR1	L	transposase
+290402.Cbei_4366	ENOG4105E97	J	Metal dependent phosphohydrolase
+435590.BVU_0946	ENOG4105C27	P	TonB-dependent Receptor Plug
+335541.Swol_1084	ENOG4105CEY	IQ	Amp-dependent synthetase and ligase
+314231.FP2506_03039	ENOG4107WBH	M	OmpA family
+335543.Sfum_1859	ENOG4106Q5Z	S	NA
+386043.lwe0429	ENOG4106GKD	M	domain protein
+196162.Noca_4620	ENOG4105DRV	Q	RelA SpoT domain protein
+203119.Cthe_1631	ENOG4107UF6	S	Abortive infection phage resistance protein
+203119.Cthe_2460	ENOG4108IMY	K	Transcriptional regulator
